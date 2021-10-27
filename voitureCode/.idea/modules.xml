@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/../exercice01/exercice01.iml" filepath="$PROJECT_DIR$/../exercice01/exercice01.iml" />
       <module fileurl="file://$PROJECT_DIR$/../exercice02/exercice02.iml" filepath="$PROJECT_DIR$/../exercice02/exercice02.iml" />
       <module fileurl="file://$PROJECT_DIR$/../exercice03/exercice03.iml" filepath="$PROJECT_DIR$/../exercice03/exercice03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exercice04/exercice04.iml" filepath="$PROJECT_DIR$/../exercice04/exercice04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exercice05/exercice05.iml" filepath="$PROJECT_DIR$/../exercice05/exercice05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exercice06/exercice06.iml" filepath="$PROJECT_DIR$/../exercice06/exercice06.iml" />
       <module fileurl="file://$PROJECT_DIR$/voitureCode.iml" filepath="$PROJECT_DIR$/voitureCode.iml" />
     </modules>
   </component>
