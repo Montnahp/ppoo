@@ -6,6 +6,7 @@ public class Voiture {
     private float valeur;
     private String couleur;
     private String plaqueImmatriculation;
+    private int testing;
 
     //Constructeur
     public Voiture(String numChassis, float valeur, String couleur, String plaqueImmatriculation) {
