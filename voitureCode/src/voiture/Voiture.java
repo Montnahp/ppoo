@@ -4,6 +4,7 @@ public class Voiture {
     private String marque;
     private String couleur;
     private int nbChevaux;
+    private int nb = 1;
 
     //méthode de classe
     private static final int NB_ROUES = 4;
