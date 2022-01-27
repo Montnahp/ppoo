@@ -9,5 +9,6 @@ public class Main {
         p1.deplacer(1, 1, 8);
 
         System.out.println("(" + p1.getX() + ";" + p1.getY() + ";" + p1.getZ() + ")");
+        System.out.println("Test");
     }
 }
